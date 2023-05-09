@@ -10,6 +10,11 @@ html {
     --primary-color: #0f1b4c;
 }
 
+html,
+body {
+    scroll-behavior: smooth;
+}
+
 body {
     font-size: 1.6rem; /*1 rem bằng 10px*/
     font-family: "Poppins", sans-serif;
