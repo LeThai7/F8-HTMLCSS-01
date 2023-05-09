@@ -519,11 +519,11 @@ a {
 }
 
 /* ===========================SUBCRIPTION=========================================*/
-.subcription {
+.subscription {
     margin-top: 90px;
 }
 
-.subcription .body {
+.subscription .body {
     position: relative;
     display: flex;
     align-items: center;
@@ -532,19 +532,19 @@ a {
     border-radius: 20px;
 }
 
-.subcription .info {
+.subscription .info {
     width: 670px;
     padding: 0 80px;
 }
 
-.subcription .sub-title {
+.subscription .sub-title {
     font-weight: 600;
     font-size: 3.5rem;
     line-height: 1.5;
     color: #ffffff;
 }
 
-.subcription .desc {
+.subscription .desc {
     margin-top: 15px;
     font-weight: 400;
     font-size: 1.6;
@@ -553,14 +553,14 @@ a {
     opacity: 0.75;
 }
 
-.subcription .btn {
+.subscription .btn {
     margin-top: 20px;
     min-width: 151px;
     background: #ffffff;
     color: #002366;
 }
 
-.subcription .image {
+.subscription .image {
     position: absolute;
     bottom: 0px;
     right: 221px;
