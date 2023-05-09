@@ -612,10 +612,12 @@ a {
     width: 28px;
     height: 28px;
     border-radius: 3px;
+    background: #f9f9f9;
 }
 
 .footer .social-link:hover {
-    background: #f9f9f9;
+    border: solid 1px rgb(95, 95, 236);
+    background: #ebebeb;
 }
 
 .footer .row-bottom {
